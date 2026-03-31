@@ -1,0 +1,105 @@
+01. Introduction
+	(1280, 720) | 01. Course content.mp4
+	(1280, 720) | 02. Introduction to OCR.mp4
+02. OCR with Tesseract
+	(1280, 720) | 01. Introduction to Tesseract.mp4
+	(1280, 720) | 02. Preparing the environment.mp4
+	(1280, 720) | 03. First text recognition.mp4
+	(1280, 720) | 04. Support for other languages.mp4
+	(1280, 720) | 05. Page segmentation mode (PSM).mp4
+	(1280, 720) | 06. Page orientation detection.mp4
+	(1280, 720) | 07. Selection of texts 1.mp4
+	(1280, 720) | 08. Selection of texts 2.mp4
+	(1280, 720) | 09. Selection of texts 3.mp4
+	(1280, 720) | 10. Search using regular expressions.mp4
+	(1280, 720) | 11. Detections in natural scenarios.mp4
+03. Techniques for image pre-processing
+	(1280, 720) | 01. Grayscale.mp4
+	(1280, 720) | 02. Thresholding - intuition.mp4
+	(1280, 720) | 03. Simple thresholding.mp4
+	(1280, 720) | 04. Thresholding with Otsu method.mp4
+	(1280, 720) | 05. Adaptive thresholding.mp4
+	(1280, 720) | 06. Gaussian adaptive thresholding.mp4
+	(1280, 720) | 07. Color inversion.mp4
+	(1280, 720) | 08. Resizing - intuition.mp4
+	(1280, 720) | 09. Resizing - implementation.mp4
+	(1280, 720) | 10. Morphological operations - intuition.mp4
+	(1280, 720) | 11. Morphological operations - implementation.mp4
+	(1280, 720) | 12. Noise removal - intuition.mp4
+	(1280, 720) | 13. Noise removal - implementation.mp4
+	(1280, 720) | 14. Text recognition with OCR.mp4
+	(1280, 720) | 16. Homework solution.mp4
+04. OCR with EAST for natural scenes
+	(1280, 720) | 01. EAST - introduction.mp4
+	(1280, 720) | 02. Pre-processing the image.mp4
+	(1280, 720) | 03. Loading the neural network.mp4
+	(1280, 720) | 04. Decoding the image 1.mp4
+	(1280, 720) | 05. Decoding the image 2.mp4
+	(1280, 720) | 06. Text recognition.mp4
+05. Training a custom OCR
+	(1280, 720) | 01. Importing the libraries.mp4
+	(1280, 720) | 02. MNIST 0-9 dataset.mp4
+	(1280, 720) | 03. Kaggle A-Z dataset.mp4
+	(1280, 720) | 04. Joining the datasets.mp4
+	(1280, 720) | 05. Pre-processing the data.mp4
+	(1280, 720) | 06. Building the neural network.mp4
+	(1280, 720) | 07. Training the neural network.mp4
+	(1280, 720) | 08. Evaluating the neural network.mp4
+	(1280, 720) | 09. Saving the neural network.mp4
+	(1280, 720) | 10. Testing with images.mp4
+	(1280, 720) | 11. Preparing the environment.mp4
+	(1280, 720) | 12. Pre-processing the image.mp4
+	(1280, 720) | 13. Contour detection.mp4
+	(1280, 720) | 14. Processing the detections 1.mp4
+	(1280, 720) | 15. Processing the detections 2.mp4
+	(1280, 720) | 16. Character recognition.mp4
+	(1280, 720) | 17. Problems with 0 and O, 1 and l, 5 and S.mp4
+	(1280, 720) | 18. Problems with undetected texts.mp4
+06. Natural scenarios with EasyOCR
+	(1280, 720) | 01. Preparing the environment.mp4
+	(1280, 720) | 02. Text recognition.mp4
+	(1280, 720) | 03. Writing the results on the image.mp4
+	(1280, 720) | 04. Other languages - French and Chinese.mp4
+	(1280, 720) | 05. Text recognition (background).mp4
+07. OCR in videos
+	(1280, 720) | 01. Preparing the environment.mp4
+	(1280, 720) | 02. Video settings.mp4
+	(1280, 720) | 03. Processing the video.mp4
+	(1280, 720) | 04. OCR with EAST and Tesseract.mp4
+	(1280, 720) | 05. OCR with EasyOCR.mp4
+08. Project 1 Searching for specific terms
+	(1280, 720) | 01. Preparing the environment.mp4
+	(1280, 720) | 02. Text recognition.mp4
+	(1280, 720) | 03. Searching for texts.mp4
+	(1280, 720) | 04. Word cloud.mp4
+	(1280, 720) | 05. Named entity recognition.mp4
+	(1280, 720) | 06. Search for texts in images.mp4
+	(1280, 720) | 07. Saving the results.mp4
+09. Project 2 Scanner + OCR
+	(1280, 720) | 01. Preparing the environment.mp4
+	(1280, 720) | 02. Contour detection.mp4
+	(1280, 720) | 03. Perspective transformation.mp4
+	(1280, 720) | 04. OCR with Tesseract.mp4
+	(1280, 720) | 05. Improving image quality.mp4
+	(1280, 720) | 06. Putting all together.mp4
+10. Project 3 License plate reading
+	(1280, 720) | 01. Pre-processing the image.mp4
+	(1280, 720) | 02. Text recognition.mp4
+	(1280, 720) | 03. Improving image quality.mp4
+11. Extra content 1 artificial neural networks
+	(1280, 720) | 01. Biological fundamentals.mp4
+	(1280, 720) | 02. Single layer perceptron.mp4
+	(1280, 720) | 03. Multilayer perceptron – sum and activation functions.mp4
+	(1280, 720) | 04. Multilayer perceptron – error calculation.mp4
+	(1280, 720) | 05. Gradient descent.mp4
+	(1280, 720) | 06. Delta parameter.mp4
+	(1280, 720) | 07. Updating weights with backpropagation.mp4
+	(1280, 720) | 08. Bias, error, stochastic gradient descent, and more parameters.mp4
+12. Extra content 2 convolutional neural networks
+	(1280, 720) | 01. Introduction to convolutional neural networks.mp4
+	(1280, 720) | 02. Convolutional operation.mp4
+	(1280, 720) | 03. Pooling.mp4
+	(1280, 720) | 04. Flattening.mp4
+	(1280, 720) | 05. Dense neural network.mp4
+13. Final remarks
+	(1280, 720) | 01. Final remarks.mp4
